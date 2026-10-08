@@ -41,8 +41,8 @@ Numeric targets will be set after evaluating the baseline model.
 - [x] Python virtual environment verified
 - [x] Initial project structure prepared
 - [x] Problem definition drafted
-- [ ] Dataset sources and usage conditions reviewed
-- [ ] Data collected and documented
+- [x] Dataset sources and usage conditions reviewed
+- [x] Data collected and documented
 - [ ] Email parsing and exploratory analysis completed
 - [ ] Baseline model trained and evaluated
 
