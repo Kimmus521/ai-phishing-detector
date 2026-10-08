@@ -1,0 +1,29 @@
+# Python environments and caches
+.venv/
+.venv_repair/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Email datasets: keep only the data guide
+/data/*
+!/data/README.md
+
+# Trained models
+/models/
+*.pkl
+*.pickle
+*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local editor and macOS files
+.vscode/
+.idea/
+.DS_Store
